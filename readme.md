@@ -32,3 +32,6 @@ liste des commandes git
 - permet de basculer entre les branches
 - permet de se déplacer entre les branches
 - avec l'option -b, permet de créer une nouvelle branche , et de se déplacer sur celle-ci , si elle n'existe pas encore
+
+## git pull
+permet de récupérer les modifications depuis le dépôt distant
