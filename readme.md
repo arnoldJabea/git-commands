@@ -20,3 +20,7 @@ permet d'envoyer les modifications dans le dépôt en local vers le dépôt dist
 ## git status
 affiche les fichiers non commités
 permet de voir les fichiers non commités
+
+## git log
+affiche les commits
+permet de voir les commits
