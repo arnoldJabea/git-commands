@@ -35,3 +35,11 @@ liste des commandes git
 
 ## git pull
 permet de récupérer les modifications depuis le dépôt distant
+
+## git rebase
+- permet de récuperer les modifications depuis le dépôt distant et de les réappliquer sur le dépôt local 
+
+- les modifications sont appliquées dans l'ordre où elles ont été réalisées( les modifications de la branche mere sont appliquées en dessous,  les modifications de la branche develop sont appliquées en premier)
+
+- les modifcations de la branche courante sont appliquées en dessus des,  modifcation de la branche mere
+
