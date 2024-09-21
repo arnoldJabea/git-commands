@@ -18,7 +18,7 @@ liste des commandes git
 - permet d'envoyer les modifications dans le dépôt en local vers le dépôt distant
 
 ## git status
-- affiche les fichiers non commités
+. affiche les fichiers non commités
 - permet de voir les fichiers non commités
 
 ## git log
