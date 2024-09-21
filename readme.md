@@ -24,3 +24,11 @@ liste des commandes git
 ## git log
 - affiche les commits
 - permet de voir les commits
+
+## git branch
+- permet de créer des branches
+
+## git checkout
+- permet de basculer entre les branches
+- permet de se déplacer entre les branches
+- avec l'option -b, permet de créer une nouvelle branche , et de se déplacer sur celle-ci , si elle n'existe pas encore
